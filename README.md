@@ -16,7 +16,7 @@ Busca tus imagenes favoritas en esta aplicación que consume la API de Pixabay p
 Si desea descargar el código y ejecutarlo localmente, debe instalar los modulos de Node para lograr ejecutar el proyecto. Para ello:
 
 - Copiamos el repositorio en la dirección deseada (Ejecutamos *git clone https://github.com/MarceloVasquez662/react_buscador.git*)
-- Nos desplazamos dentro del proyecto e instalamos los módulos de Node (Ejecutamos *npm install --save react-scripts*)
+- Nos desplazamos dentro del proyecto e instalamos los módulos de Node (Ejecutamos *npm install react-scripts --save*)
 - Arrancamos el proyecto (Ejecutamos *npm start*)
 
 *Para el proceso es necesario tener instalado GIT y NPM*
